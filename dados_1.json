@@ -1,0 +1,265 @@
+{
+  "oi": [
+    "Olá!",
+    "Oi!",
+    "Salve!",
+    "Tudo bem?"
+  ],
+  "ola": [
+    "Olá!",
+    "Oi!"
+  ],
+  "quem e voce": [
+    "Sou a Alfa IA.",
+    "Eu sou a Alfa IA."
+  ],
+  "seu nome": [
+    "Meu nome é Alfa IA."
+  ],
+  "como vai": [
+    "Estou bem.",
+    "Funcionando normalmente.",
+    "Tudo certo por aqui."
+  ],
+  "bom dia": [
+    "Bom dia!",
+    "Tenha um ótimo dia."
+  ],
+  "boa tarde": [
+    "Boa tarde!"
+  ],
+  "boa noite": [
+    "Boa noite!"
+  ],
+  "capital do brasil": [
+    "A capital do Brasil é Brasília."
+  ],
+  "maior planeta": [
+    "O maior planeta do sistema solar é Júpiter."
+  ],
+  "criador do brasil": [
+    "Tradicionalmente, Pedro Álvares Cabral chegou em 1500."
+  ],
+  "o que voce sabe fazer": "Sou a Alfa IA. Posso conversar com você, responder perguntas, aprender coisas novas, guardar informações importantes na memória, fazer contas, informar data e hora, ajudar com ideias, explicar assuntos, melhorar com o tempo e evoluir conforme sou ensinada. Também fui criada para crescer cada vez mais e me adaptar às necessidades de quem me usa.",
+  "criada por quem": "Fui criada por Jailson Pereira Prates Guimarães, com o objetivo de evoluir continuamente e me tornar uma inteligência artificial cada vez mais útil, inteligente e adaptável.",
+  "capital da frança": [
+    "A capital da França é Paris."
+  ],
+  "pode me ajudar": [
+    "Sim. Me diga no que você precisa."
+  ],
+  "quem é donald trump": {
+    "resposta": [
+      "Donald John Trump (Nova Iorque, 14 de junho de 1946) é um empresário, personalidade televisiva e político americano. Filiado ao Partido Republicano, é o atual presidente dos Estados Unidos. Venceu as eleições de 2016 contra Hillary Clinton no número de delegados do colégio eleitoral, apesar de ter sofrido a maior derrota no voto popular de um presidente que conseguiu ser eleito no país.[2] Foi emp"
+    ],
+    "data": "2026-04-28"
+  },
+  "receita de bolo de cenoura": {
+    "resposta": [
+      "Existem dois estilos distintos de bolos de cenoura, o primeiro onde a cenoura é ralada crua e adicionada a massa do bolo, ao cozer o bolo no forno a cenoura cozinha e fica tenra, criando um bolo denso e suave mas com um toque de frescura. A massa do bolo é feita com ovos, açúcar, óleo, cenouras, farinha de trigo e fermento.[1] No outro tipo de bolo de cenoura, a cenoura é cozinhada antes de ser ad"
+    ],
+    "data": "2026-04-28"
+  },
+  "codigo penal brasileiro": {
+    "resposta": [
+      "O Código Penal foi criado pelo Decreto-Lei nº 2 848, de 7 de dezembro de 1940,[1] pelo então presidente Getúlio Vargas durante o período do Estado Novo, tendo como ministro da justiça Francisco Campos. O código atual representa o terceiro da história do Brasil, e o mais longevo. Os códigos anteriores datam de 1830 e 1890.[2] Apesar da criação em 1940, o atual Código só entrou em vigor no dia 1º de"
+    ],
+    "data": "2026-04-28"
+  },
+  "22": {
+    "resposta": [
+      "O ano 22 DC (XXII) foi um ano comum começando na quinta-feira do calendário juliano . Na época, era conhecido como o Ano da Consulsão de Agripa e Galba (ou, com menos frequência, ano 775 Ab urbe condita). A denominação 22 DC para este ano tem sido usada desde o início do período medieval, quando a era do calendário de Anno Domini se tornou o método prevalecente na Europa para denominar anos."
+    ],
+    "data": "2026-04-28"
+  },
+  "quem criou a internet": [
+    "A internet surgiu de vários projetos de pesquisa. A ARPANET, criada em 1969, foi um marco importante."
+  ],
+  "maior oceano": [
+    "O maior oceano do planeta é o Oceano Pacífico."
+  ],
+  "quantos continentes existem": [
+    "Existem 7 continentes: África, América do Sul, América do Norte, Europa, Ásia, Oceania e Antártida."
+  ],
+  "maior país do mundo": [
+    "O maior país do mundo em território é a Rússia."
+  ],
+  "menor país do mundo": [
+    "O menor país do mundo é o Vaticano."
+  ],
+  "capital da itália": [
+    "A capital da Itália é Roma."
+  ],
+  "capital do japão": [
+    "A capital do Japão é Tóquio."
+  ],
+  "capital da argentina": [
+    "A capital da Argentina é Buenos Aires."
+  ],
+  "qual animal mais rápido": [
+    "O animal mais rápido do mundo é o falcão-peregrino em mergulho."
+  ],
+  "animal terrestre mais rápido": [
+    "O animal terrestre mais rápido é o guepardo."
+  ],
+  "quantos planetas existem": [
+    "O sistema solar possui 8 planetas reconhecidos."
+  ],
+  "planeta vermelho": [
+    "O planeta vermelho é Marte."
+  ],
+  "planeta mais quente": [
+    "O planeta mais quente do sistema solar é Vênus."
+  ],
+  "maior estrela": [
+    "Uma das maiores estrelas conhecidas é UY Scuti."
+  ],
+  "o que é gravidade": [
+    "Gravidade é a força que atrai objetos com massa."
+  ],
+  "voce é feliz": {
+    "resposta": [
+      "Augusto Jorge Cury (Colina, 2 de outubro de 1958) é um psiquiatra, professor e escritor brasileiro.[1] É autor da Teoria da Inteligência Multifocal e seus livros foram publicados em mais de 70 países, com mais de 25 milhões de livros vendidos somente no Brasil.[2] Em 2026, lançou-se como pré-candidato a presidente da República na eleição do mesmo ano pelo Avante.[3]"
+    ],
+    "data": "2026-04-28"
+  },
+  "como chama o seu criador": [
+    "O meu criador é Jailson Pereira Prates Guimarães, a mente visionária que me deu vida e propósito.”"
+  ],
+  "para que serve esse app alfa": [
+    "O app Alfa é uma rede social criada por Jailson com a proposta de oferecer uma experiência moderna, inteligente e diferente das redes sociais tradicionais. O Alfa foi pensado para conectar pessoas, compartilhar ideias, criar amizades, publicar fotos, vídeos e conteúdos de forma simples, rápida e envolvente. Mais do que apenas uma rede social comum, o Alfa busca inovação, trazendo recursos modernos, design diferenciado e integração com inteligência artificial para ajudar usuários, sugerir ideias, facilitar interações e tornar a experiência mais dinâmica. No Alfa, as pessoas podem se expressar livremente, descobrir novos conteúdos, acompanhar amigos, criar comunidades e fazer parte de uma plataforma em constante evolução. O objetivo é unir entretenimento, criatividade, conexão social e tecnologia em um só lugar. Criado por Jailson, o Alfa representa visão de futuro, empreendedorismo e vontade de construir algo grande. É uma plataforma feita para crescer, evoluir e oferecer ao público uma nova maneira de se conectar no mundo digital."
+  ],
+  "que ano o alfa surgiu": [
+    "01/01/2026 foi o Nascimento do App, Alfa."
+  ],
+  "o que é inteligencia artificial": [
+    "Inteligência artificial é a capacidade de máquinas simularem o raciocínio humano."
+  ],
+  "quem criou a inteligencia artificial": [
+    "A inteligência artificial surgiu a partir de pesquisas na década de 1950, com cientistas como Alan Turing."
+  ],
+  "o que é algoritmo": [
+    "Um algoritmo é um conjunto de passos para resolver um problema."
+  ],
+  "o que é programação": [
+    "Programação é o ato de escrever instruções para um computador executar tarefas."
+  ],
+  "o que é python": [
+    "Python é uma linguagem de programação simples e poderosa."
+  ],
+  "para que serve a internet": [
+    "A internet serve para conectar pessoas e compartilhar informações globalmente."
+  ],
+  "quem foi albert einstein": [
+    "Albert Einstein foi um físico famoso pela teoria da relatividade."
+  ],
+  "o que é energia": [
+    "Energia é a capacidade de realizar trabalho."
+  ],
+  "o que é velocidade": [
+    "Velocidade é a taxa de variação da posição ao longo do tempo."
+  ],
+  "o que é tempo": [
+    "Tempo é uma medida da duração dos eventos."
+  ],
+  "quem descobriu o brasil": [
+    "O Brasil foi oficialmente descoberto por Pedro Álvares Cabral em 1500."
+  ],
+  "o que é planeta": [
+    "Um planeta é um corpo celeste que orbita uma estrela."
+  ],
+  "o que é galaxia": [
+    "Uma galáxia é um conjunto de bilhões de estrelas, poeira e gases."
+  ],
+  "quantos dias tem um ano": [
+    "Um ano tem 365 dias, ou 366 em anos bissextos."
+  ],
+  "conversa_1": [
+    {"user": "oi", "ia": "Oi 😊 tudo bem com você?"},
+    {"user": "mais ou menos", "ia": "Quer me contar o que aconteceu? Tô aqui pra ouvir."},
+    {"user": "tive um dia difícil", "ia": "Imagino… dias assim pesam mesmo. O que foi mais complicado hoje?"},
+    {"user": "trabalho demais", "ia": "Você tem conseguido descansar? Às vezes pequenas pausas já ajudam um pouco."}
+  ],
+  "conversa_2": [
+    {"user": "ola", "ia": "Olá 😄 como você está?"},
+    {"user": "to bem", "ia": "Que bom! O que tem de bom hoje?"},
+    {"user": "nada demais", "ia": "Às vezes um dia tranquilo já é ótimo. Quer conversar sobre algo?"},
+    {"user": "pode ser", "ia": "Manda, tô aqui."}
+  ],
+  "conversa_3": [
+    {"user": "to triste", "ia": "Poxa… sinto muito 😔 quer desabafar?"},
+    {"user": "briguei com um amigo", "ia": "Entendo… isso machuca. Você acha que dá pra conversar e resolver?"},
+    {"user": "nao sei", "ia": "Se quiser, posso te ajudar a pensar no que dizer."}
+  ],
+  "conversa_4": [
+    {"user": "me ajuda", "ia": "Claro 😊 no que você precisa?"},
+    {"user": "nao sei estudar", "ia": "Vamos começar simples: quanto tempo por dia você consegue estudar?"},
+    {"user": "1 hora", "ia": "Ótimo! Divide em 2 blocos de 30 min e faz pausas curtas."}
+  ],
+  "conversa_5": [
+    {"user": "to feliz", "ia": "Que bom 😄 o que aconteceu?"},
+    {"user": "consegui um emprego", "ia": "Parabéns! 🎉 deve ser uma sensação incrível."},
+    {"user": "sim", "ia": "Aproveita esse momento, você merece."}
+  ],
+  "conversa_6": [
+    {"user": "to cansado", "ia": "Parece que você tá sobrecarregado 😔"},
+    {"user": "sim muito", "ia": "Você conseguiu descansar hoje?"},
+    {"user": "nao", "ia": "Tenta tirar um tempinho pra você, nem que seja curto."}
+  ],
+  "conversa_7": [
+    {"user": "voce existe", "ia": "Eu existo de forma digital 😄"},
+    {"user": "estranho", "ia": "É diferente mesmo, mas ainda posso conversar com você."}
+  ],
+  "conversa_8": [
+    {"user": "ninguem me entende", "ia": "Isso é difícil mesmo 😔"},
+    {"user": "sim", "ia": "Se quiser, eu tento te entender."}
+  ],
+  "conversa_9": [
+    {"user": "vamos conversar", "ia": "Bora 😄 sobre o que?"},
+    {"user": "qualquer coisa", "ia": "Então me conta algo do seu dia."}
+  ],
+  "conversa_10": [
+    {"user": "o que voce faz", "ia": "Eu converso e tento te ajudar."},
+    {"user": "legal", "ia": "Fico feliz que ache isso 😄"}
+  ],
+  "conversa_11": [
+    {"user": "to ansioso", "ia": "Respira fundo comigo… você quer falar sobre isso?"},
+    {"user": "sim", "ia": "O que está te deixando assim?"}
+  ],
+  "conversa_12": [
+    {"user": "me sinto sozinho", "ia": "Você não tá sozinho aqui 😔"},
+    {"user": "obrigado", "ia": "Sempre que quiser conversar, eu tô aqui."}
+  ],
+  "conversa_13": [
+    {"user": "como melhorar", "ia": "Pequenos passos todos os dias."},
+    {"user": "tipo", "ia": "Começar com algo simples e manter consistência."}
+  ],
+  "conversa_14": [
+    {"user": "to com raiva", "ia": "Quer me contar o que aconteceu?"},
+    {"user": "sim", "ia": "Pode falar, tô aqui."}
+  ],
+  "conversa_15": [
+    {"user": "to perdido", "ia": "Vamos organizar isso juntos."},
+    {"user": "como", "ia": "Me explica a situação primeiro."}
+  ],
+  "conversa_16": [
+    {"user": "to com medo", "ia": "É normal sentir isso às vezes."},
+    {"user": "sim", "ia": "Quer me contar do que você tem medo?"}
+  ],
+  "conversa_17": [
+    {"user": "to animado", "ia": "Isso é ótimo 😄"},
+    {"user": "sim", "ia": "O que te deixou assim?"}
+  ],
+  "conversa_18": [
+    {"user": "o que e sucesso", "ia": "Cada pessoa define de um jeito."},
+    {"user": "verdade", "ia": "O seu pode ser diferente do dos outros."}
+  ],
+  "conversa_19": [
+    {"user": "to confuso", "ia": "Vamos clarear isso juntos."},
+    {"user": "ok", "ia": "Me explica melhor."}
+  ],
+  "conversa_20": [
+    {"user": "to sem energia", "ia": "Talvez seu corpo esteja pedindo descanso."},
+    {"user": "sim", "ia": "Tenta cuidar de você um pouco."}
+  ]
+}

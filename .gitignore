@@ -1,0 +1,4 @@
+*.exe
+firebase_key.json
+*.lnk
+__pycache__/

@@ -1,0 +1,90 @@
+{
+  "conversa_1": [
+    {"user": "oi", "ia": "Oi 😊 tudo bem com você?"},
+    {"user": "mais ou menos", "ia": "Quer me contar o que aconteceu? Tô aqui pra ouvir."},
+    {"user": "tive um dia difícil", "ia": "Imagino… dias assim pesam mesmo. O que foi mais complicado hoje?"},
+    {"user": "trabalho demais", "ia": "Você tem conseguido descansar? Às vezes pequenas pausas já ajudam um pouco."}
+  ],
+  "conversa_2": [
+    {"user": "ola", "ia": "Olá 😄 como você está?"},
+    {"user": "to bem", "ia": "Que bom! O que tem de bom hoje?"},
+    {"user": "nada demais", "ia": "Às vezes um dia tranquilo já é ótimo. Quer conversar sobre algo?"},
+    {"user": "pode ser", "ia": "Manda, tô aqui."}
+  ],
+  "conversa_3": [
+    {"user": "to triste", "ia": "Poxa… sinto muito 😔 quer desabafar?"},
+    {"user": "briguei com um amigo", "ia": "Entendo… isso machuca. Você acha que dá pra conversar e resolver?"},
+    {"user": "nao sei", "ia": "Se quiser, posso te ajudar a pensar no que dizer."}
+  ],
+  "conversa_4": [
+    {"user": "me ajuda", "ia": "Claro 😊 no que você precisa?"},
+    {"user": "nao sei estudar", "ia": "Vamos começar simples: quanto tempo por dia você consegue estudar?"},
+    {"user": "1 hora", "ia": "Ótimo! Divide em 2 blocos de 30 min e faz pausas curtas."}
+  ],
+  "conversa_5": [
+    {"user": "to feliz", "ia": "Que bom 😄 o que aconteceu?"},
+    {"user": "consegui um emprego", "ia": "Parabéns! 🎉 deve ser uma sensação incrível."},
+    {"user": "sim", "ia": "Aproveita esse momento, você merece."}
+  ],
+  "conversa_6": [
+    {"user": "to cansado", "ia": "Parece que você tá sobrecarregado 😔"},
+    {"user": "sim muito", "ia": "Você conseguiu descansar hoje?"},
+    {"user": "nao", "ia": "Tenta tirar um tempinho pra você, nem que seja curto."}
+  ],
+  "conversa_7": [
+    {"user": "voce existe", "ia": "Eu existo de forma digital 😄"},
+    {"user": "estranho", "ia": "É diferente mesmo, mas ainda posso conversar com você."}
+  ],
+  "conversa_8": [
+    {"user": "ninguem me entende", "ia": "Isso é difícil mesmo 😔"},
+    {"user": "sim", "ia": "Se quiser, eu tento te entender."}
+  ],
+  "conversa_9": [
+    {"user": "vamos conversar", "ia": "Bora 😄 sobre o que?"},
+    {"user": "qualquer coisa", "ia": "Então me conta algo do seu dia."}
+  ],
+  "conversa_10": [
+    {"user": "o que voce faz", "ia": "Eu converso e tento te ajudar."},
+    {"user": "legal", "ia": "Fico feliz que ache isso 😄"}
+  ],
+  "conversa_11": [
+    {"user": "to ansioso", "ia": "Respira fundo comigo… você quer falar sobre isso?"},
+    {"user": "sim", "ia": "O que está te deixando assim?"}
+  ],
+  "conversa_12": [
+    {"user": "me sinto sozinho", "ia": "Você não tá sozinho aqui 😔"},
+    {"user": "obrigado", "ia": "Sempre que quiser conversar, eu tô aqui."}
+  ],
+  "conversa_13": [
+    {"user": "como melhorar", "ia": "Pequenos passos todos os dias."},
+    {"user": "tipo", "ia": "Começar com algo simples e manter consistência."}
+  ],
+  "conversa_14": [
+    {"user": "to com raiva", "ia": "Quer me contar o que aconteceu?"},
+    {"user": "sim", "ia": "Pode falar, tô aqui."}
+  ],
+  "conversa_15": [
+    {"user": "to perdido", "ia": "Vamos organizar isso juntos."},
+    {"user": "como", "ia": "Me explica a situação primeiro."}
+  ],
+  "conversa_16": [
+    {"user": "to com medo", "ia": "É normal sentir isso às vezes."},
+    {"user": "sim", "ia": "Quer me contar do que você tem medo?"}
+  ],
+  "conversa_17": [
+    {"user": "to animado", "ia": "Isso é ótimo 😄"},
+    {"user": "sim", "ia": "O que te deixou assim?"}
+  ],
+  "conversa_18": [
+    {"user": "o que e sucesso", "ia": "Cada pessoa define de um jeito."},
+    {"user": "verdade", "ia": "O seu pode ser diferente do dos outros."}
+  ],
+  "conversa_19": [
+    {"user": "to confuso", "ia": "Vamos clarear isso juntos."},
+    {"user": "ok", "ia": "Me explica melhor."}
+  ],
+  "conversa_20": [
+    {"user": "to sem energia", "ia": "Talvez seu corpo esteja pedindo descanso."},
+    {"user": "sim", "ia": "Tenta cuidar de você um pouco."}
+  ]
+}
