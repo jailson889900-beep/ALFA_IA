@@ -1,0 +1,10 @@
+{
+  "title": "ALFA_IA",
+  "description": "IA alfa",
+  "type": "serverless",
+  "category": "language",
+  "config": {
+    "runsOn": "GPU",
+    "containerDiskInGb": 20
+  }
+}

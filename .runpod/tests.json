@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "name": "teste",
+      "input": {
+        "prompt": "Oi"
+      },
+      "timeout": 10000
+    }
+  ]
+}
