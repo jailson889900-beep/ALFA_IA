@@ -3,8 +3,10 @@
   "description": "IA alfa",
   "type": "serverless",
   "category": "language",
+  "iconUrl": "https://runpod.io/favicon.ico",
   "config": {
     "runsOn": "GPU",
-    "containerDiskInGb": 20
+    "containerDiskInGb": 20,
+    "handler": "handler.py"
   }
 }
