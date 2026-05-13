@@ -1,10 +1,9 @@
 import runpod
 
-def handler(job):
+def handler(event):
+    input_data = event["input"]
     return {
-        "message": "ALFA IA online"
+        "response": f"ALFA recebeu: {input_data}"
     }
 
-runpod.serverless.start({
-    "handler": handler
-})
+runpod.serverless.start({"handler": handler})
