@@ -4,8 +4,6 @@ WORKDIR /app
 
 COPY . .
 
-RUN pip install -r requirements.txt
-
-EXPOSE 5000
+RUN pip install runpod
 
 CMD ["python", "handler.py"]
